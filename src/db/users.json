@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Brain",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://png.pngtree.com/png-clipart/20230224/ourmid/pngtree-3d-brain-man-character-use-mobile-phone-png-image_6615326.png"
+  },
+  {
+    "id": 2,
+    "user": "Elon Reeve Musk",
+    "tweets": 520,
+    "followers": 999,
+    "avatar": "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png"
+  },
+  {
+    "id": 3,
+    "user": "Inna",
+    "tweets": 80,
+    "followers": 999999,
+    "avatar": "https://png.pngtree.com/png-clipart/20221207/ourmid/pngtree-purple-hair-girl-avatar-png-image_6514621.png"
+  },
+  {
+    "id": 4,
+    "user": "Bob Reeve",
+    "tweets": 120,
+    "followers": 28,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/010/871/340/small/3d-avatar-fashion-designer-png.png"
+  },
+  {
+    "id": 5,
+    "user": "Jon Reeve Musk",
+    "tweets": 350,
+    "followers": 2010,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/010/871/299/small/3d-avatar-captain-png.png"
+  },
+  {
+    "id": 6,
+    "user": "Olia",
+    "tweets": 469,
+    "followers": 1050,
+    "avatar": "https://png.pngtree.com/png-clipart/20221207/ourmid/pngtree-blonde-avatar-png-image_6514610.png"
+  }
+]
