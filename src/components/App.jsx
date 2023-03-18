@@ -1,16 +1,19 @@
+import CardUser from './CardUser';
+
 export const App = () => {
   return (
     <div
       style={{
-        height: '100vh',
         display: 'flex',
-        justifyContent: 'center',
+        height: '100%',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        justifyContent: 'center',
+        gap: '15px',
+        flexWrap: 'wrap',
+        padding: '50px 10px',
       }}
     >
-      React template
+      <CardUser />
     </div>
   );
 };
