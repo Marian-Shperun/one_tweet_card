@@ -27,6 +27,7 @@ export const Wrapper = styled('div')`
 
   div,
   div img {
+    display: block;
     width: calc(80px - 16px);
     height: calc(80px - 16px);
     background-color: #5736a3;
